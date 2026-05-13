@@ -1,8 +1,9 @@
-Personal Portfolio Website 🚀
-For Demo It is not my original Project its just Homework Task shakirjiskani.github.io/portfolio/
+**Personal Portfolio Website 🚀**
+For DemoIt is not my original Project its just Homework Task shakirjiskani.github.io/portfolio/
+
 Welcome to my personal portfolio repository! This project is a comprehensive showcase of my academic journey, technical skills, and web development projects as an Information Technology student.
 
-✨ Features
+**✨ Features**
 Modern & Aesthetic UI: Designed with a focus on clean layouts and modern digital interfaces.
 
 Fully Responsive: Built using Bootstrap to ensure the website looks great on mobile, tablets, and desktops.
@@ -13,7 +14,7 @@ Project Showcase: A dedicated space for my web platforms, including e-commerce a
 
 Contact Integration: Easy-to-find links to get in touch for collaborations or opportunities.
 
-🛠️ Tech Stack Used
+**🛠️ Tech Stack Used**
 HTML5 – For semantic web structure.
 
 CSS3 – For custom styling and layout.
@@ -22,7 +23,7 @@ JavaScript (ES6+) – For dynamic interactivity.
 
 Bootstrap 5 – For a mobile-first responsive grid system and components.
 
-🚀 How to Use & Run this Project
+**🚀 How to Use & Run this Project**
 To run this project locally on your machine, follow these simple steps:
 
 1. Clone the Repository
@@ -38,7 +39,7 @@ cd portfolio
 3. Open the Website
 You don't need a server for this project. Simply locate the index.html file in your file explorer and double-click it to open it in your preferred browser (Chrome, Edge, or Firefox).
 
-📂 Folder Structure
+**📂 Folder Structure**
 index.html — The main entry point of the website.
 
 images/ — Contains all profile pictures, project screenshots, and brand assets.
